@@ -26,8 +26,4 @@ Module 9 - More Dimensional Model and Data Warehousing
 
 Module 10 - More Data Warehousing
 
-Module 11 - Server Side Code
-
-Module 12 - Database Building Blocks, Architecture, Performance, and Security
-
-Module 13 - Relational, Redshift, and Other Cloud and NoSQL technologies
+Module 11 - Database Security
